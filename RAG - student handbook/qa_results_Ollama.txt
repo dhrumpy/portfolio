@@ -1,0 +1,323 @@
+Q: What are the class hours?
+A:  - 1st Period: 9:00-10:15
+- 2nd Period: 10:25-11:40
+- Lunch Break: 11:40–12:40
+- 3rd Period: 12:40–13:55
+- 4th Period: 14:05–15:20
+- 5th Period: 15:30–16:45
+- 6th Period: 16:55–18:10
+--------------------------------------------------
+
+Q: How many credits are required to graduate?
+A:  - Students must earn a total of 124 credits or more from courses taught at iCLA.
+- For Machine Learning, students need to complete:
+  - 6 credits from the following courses: 'Machine Learning', 'Cyberpsychology', 'Consumer Psychology', 'Economic Psychology'
+  - 1 credit for 'Seminar'
+  - 2 credits for 'Graduation Research Project'
+- For Data Science majors, they must have earned credit for at least 7 lecture courses (21 credits) that satisfy the major area requirement.
+- For Psychology majors, they must have earned credit for at least 7 lecture courses (21 credits), of which at least one must be 'Introduction to Psychology'.
+- English Language Courses: 'English for Academic Excellence: B (EAE B)' is 15 credits.
+- Maximum number of credits per year level: 1st year - 36 credits, 2nd year - 42 credits, 3rd year - 42 credits, 4th year - 42 credits.
+- Students who entered in 2025 or later must earn credits in the following: Subject Area Required and required-elective courses.
+--------------------------------------------------
+
+Q: What is the attendance policy?
+A:  - Attendance is mandatory for classes.
+- Courses are designed based on the study hours necessary to earn credit.
+- If a student's number of absences exceeds one-third of the total number of classes for a given course, they may face consequences at the discretion of the course instructor.
+- Excused Absences can be applied for in certain unavoidable circumstances and are limited to less than half of the total number of classes for each course.
+- The details for Excused Absence procedures can be found on the iCLA Navi.
+--------------------------------------------------
+
+Q: What happens if I miss a class?
+A:  If you miss a class due to unavoidable circumstances:
+- You can apply for an "Excused Absence".
+- If approved, the course instructor will provide you with class handouts and instructions on self-study content.
+- By supplementing your studies to the same extent as the missed class with the provided materials, you will not receive an "F" or "NP" grade for that class.
+- Excused Absences can only be applied to a maximum of less than half of the total number of classes for each course.
+- If your absence exceeds one-third of the total number of classes for a given course, your graduation may be postponed or your year level and semester will remain the same but a Leave of Absence counts towards a student’s Maximum Enrollment Period.
+- If you miss an exam due to unavoidable circumstances, you should consult with the course instructor about taking a make-up exam.
+
+If you are late to class due to disruptions in public transportation:
+- You should contact the iCLA Administrative Office regarding the status of the class if your instructor does not show up at least 25 minutes after the class start time. The course instructor decides how arriving late is handled.
+--------------------------------------------------
+
+Q: How are grades calculated?
+A:  - Grades are calculated based on a five-grade scale, with letter grades and their Grade Points (GP) as follows:
+    - A: 100-90, GP: 4.0, Interpretation of grade: Excellent
+    - B: 89-80, GP: 3.0, Interpretation of grade: Good
+    - C: 79-70, GP: 2.0, Interpretation of grade: Satisfactory
+    - D: 69-60, GP: 1.0, Interpretation of grade: Marginal
+    - F: 59-0, GP: 0.0, Interpretation of grade: Fail
+- If a student retakes a failed course, only the final grade will be counted for GPA calculation.
+- Credits for each course and credits transferred from exchange partners are calculated according to the number of hours required to acquire the contents of a course, with 1 credit equal to 45 hours of study.
+- Exams include final exams, exams given during class hours, and external exams related to a class subject. The passing grade for exams is dependent on the grade evaluation.
+- Grades are posted on UNIPA in August for the spring semester and January for the fall semester.
+- If a student suspects an error in grade evaluation or holds doubt about the evaluation of a course, they can appeal the grade.
+--------------------------------------------------
+
+Q: What is the policy on repeating a course?
+A:  - A student can re-take a failed course.
+- The failing grade before the retake will not be counted towards the total number of registered credits.
+- Only the final grade will be counted in the student's GPA.
+- If a student has unavoidable circumstances that cause them to miss more than one-third of a class, they should contact their course instructor for assistance.
+- Re-enrollment in the University is possible with the President's permission after being dismissed or withdrawing for up to 5 years.
+--------------------------------------------------
+
+Q: How do I register for courses?
+A:  1. Course registration is available during a designated period each semester.
+2. Students should register for higher level Japanese language courses even if they don't meet the prerequisite by following the iCLA Navi's Prerequisite Waiver procedures.
+3. Students can register for courses on UNIPA after creating their own semester course timetable.
+4. Failure to register during the designated period without a valid reason may result in dismissal. Those who haven't registered, haven't presented their student ID card, haven't paid university fees, and other obligatory fees will also be affected.
+--------------------------------------------------
+
+Q: What is the maximum number of credits I can take per semester?
+A:  Based on the provided transcript context:
+
+- For 1st year students, the maximum number of credits they can take in a semester is 20.
+- For 2nd to 4th year students, the maximum number of credits they can take in a semester is 22.
+--------------------------------------------------
+
+Q: What are the prerequisites for advanced courses?
+A:  - Prerequisites for advanced courses can be one of the following:
+   - A completed course or equivalent skills
+   - Certain standards in an area, such as a high enough score on a test to skip a level of Japanese
+- For Seminar (1 credit), prerequisites include:
+  - Completion of at least 6 semesters and earned a total of at least 82 credits
+  - Earned credits for all required Foundation Courses
+  - For students who entered in 2024AY or earlier, they must have completed at least 6 "designated courses" (18 credits) that satisfy the major area Graduation Requirements
+- For Graduation Research Project (2 credits), students are expected to connect knowledge from a broad range of disciplines and prepare a proposal using skills learned from different courses.
+--------------------------------------------------
+
+Q: How do I declare or change my major?
+A:  1. To declare or change a major, students must have taken a pathway course in that major area.
+2. For Global Business & Economics, the pathway course is 'Microeconomics'.
+3. For Political Science, the pathway course is 'Introduction to Political Science'.
+4. For Psychology, the pathway courses are 'Introduction to Psychology' and 'Introduction to Psychobiology'.
+5. After declaring a major, a faculty member in charge of that major will become the student's academic advisor.
+6. The application must be made by the requesting student.
+--------------------------------------------------
+
+Q: What is the policy on late assignments?
+A:  The provided context does not contain information about the policy on late assignments. It only mentions that students should contact their course instructor regarding arriving to class late, and how arriving to class late is handled is decided by the course instructor. Therefore, I don't know the answer to your question based on the given transcript.
+--------------------------------------------------
+
+Q: How are final exams scheduled?
+A:  - Final exams are conducted during finals week, following the last week of classes.
+- The timetable for the final exam schedule is posted on iCLA Navi about one month before the final exams begin.
+- The method of exam may vary by subject and includes written exams, reports, oral exams, practical exams etc.
+- If a student misses the final exam, they will not be able to earn credit for that course unless it's due to unavoidable circumstances, in which case a make-up exam might be offered.
+- For details about make-up exam procedures, students should refer to the iCLA Navi.
+--------------------------------------------------
+
+Q: What happens if I miss an exam?
+A:  - If you miss an exam due to unavoidable circumstances, you can apply for a Make-up exam.
+- The evaluation of the make-up exam will be conducted in the same manner as the regular final exam.
+- No further exams will be given to students who miss the make-up exam.
+- The make-up exam system does not apply to mid-term exams or other exams.
+- If you are unable to attend a final exam due to disruptions in the public transportation schedule, consult with the course instructor. Students eligible to take a make-up exam must follow necessary procedures as stated in iCLA Navi for the Make-up exam procedures.
+- If you retake a failed course, the failing grade before the retake will not be counted toward the total number of registered credits, and only the final grade will be counted.
+--------------------------------------------------
+
+Q: What is the policy on make-up exams?
+A:  - A make-up exam is offered for students who cannot attend the scheduled final exam due to unavoidable circumstances.
+- The evaluation of the make-up exam follows Article 19 of the "School Health and Safety Act."
+- Students must follow the necessary procedures immediately if they have or suspect they have contracted an infectious disease.
+- The make-up exam is conducted in the same manner as the regular final exam. No further exams will be given to students who miss the make-up exam.
+- Illicit behavior during the exam includes using unauthorized reference materials, impersonation, and disregarding instructions from the course instructor or supervisor.
+- Information about the make-up exam will be posted on the University's website (https://www.ygu.ac.jp).
+- Eligible students for a make-up exam should follow the necessary procedures as stated in iCLA Navi for Make-up exam procedures.
+- The reasons for absence and necessary documentation are specified in the transcript.
+--------------------------------------------------
+
+Q: Are there rules for plagiarism or academic misconduct?
+A:  - Yes, the provided transcript mentions rules against plagiarism and academic misconduct.
+- Plagiarism includes copying other examinees' answers, destroying data, using fraudulent data, and disclosing passwords and personal data to others.
+- Students are also prohibited from committing identity theft and illegally providing or disseminating personal information to third parties.
+- In online exams, similar rules apply, and students will be punished if found guilty of such behavior.
+- Students are advised not to use unauthorized reference materials or personal belongings during exams, and must follow the instructions of the course instructor or supervisor when preparing answers.
+--------------------------------------------------
+
+Q: What are the requirements for graduating with honors?
+A:  The provided transcript does not explicitly mention any specific requirements for graduating with honors. However, it is mentioned that there is a distinction between Type A and other students in terms of the scholarship amount (300,000JPY for Type A), which could potentially be related to an honors program or high academic achievement. But without further information, it's not possible to definitively answer the question about the requirements for graduating with honors.
+--------------------------------------------------
+
+Q: What clubs and organizations are available?
+A:  - Clubs and organizations available include those managed by the Student Center under University-approved extracurricular activities, such as Bars, Nightclubs, Hostess clubs (Kyabakura), Host clubs, Cabarets (Kyabare), Clubs, Dance clubs, Mahjong parlors, Pachinko parlors, Arcades (Game centers), etc.
+- There is also the Language Acquisition Center (LAC) for language learning support.
+- Some prefectures, cities, towns, villages, and private organizations may offer various scholarships. For scholarships where students apply through the University, details will be posted on the University's website and announced by email and on UNIPA.
+--------------------------------------------------
+
+Q: How do I join student clubs?
+A:  - Join a student club at the University by following these steps:
+  1. Check for available clubs that match your interests or major, possibly through the General Manager of the club or a pamphlet explaining the event.
+  2. Some clubs may have slots set aside for YGU students, so inquire about this possibility when joining.
+  3. You can also apply for "open internships" on your own through company websites and employment information if the club is managed by an external organization.
+--------------------------------------------------
+
+Q: What are the library opening hours?
+A:  The library opening hours are as follows:
+- Weekdays: 9:00–20:00
+- Saturdays: 9:30–16:30
+--------------------------------------------------
+
+Q: Are there computer labs available for students?
+A:  Yes, based on the provided context:
+- The transcript mentions that desktop computers and laptops are available in the Learning Commons, which is a facility within the building.
+- Additionally, the Language Acquisition Center (LAC) is another facility available to all students, faculty, and staff, which may also include computer resources.
+--------------------------------------------------
+
+Q: Is there Wi-Fi access on campus?
+A:  Yes, there is Wi-Fi access on campus. Students can connect to the YGU_Wi-Fi wireless network by logging in with their Integrated Authentication ID and password.
+--------------------------------------------------
+
+Q: Where can I get help with IT issues?
+A:  - Go to Learning Management System "UNIPA". This is a network and computer system that investigates any violations of policies and may lead to termination of usage rights, criminal prosecution, and restitution for damages incurred.
+- Log in with your Integrated Authentication ID and password provided in the transcript ([redacted] and [redacted]).
+- If you encounter IT issues or have questions, it is recommended to seek help from the University's support services. However, specific details about an IT helpdesk are not provided in the given transcript.
+--------------------------------------------------
+
+Q: What are the dining hall hours?
+A:  - Dining hall information is not explicitly stated in the provided transcript context. However, it can be inferred that meals might be served on specific days such as February Board (0 Days), August Board (0 Days), and May Board (May 1 - 30 excl. weekends & no class days: 20 Days). But the hours for these meals are not specified.
+- The Student Lounge operates from 9:00 to 22:00 on weekdays and weekends. This could potentially be a place where food might be available or consumed, but it's not explicitly stated as a dining hall.
+- The Cafeteria is mentioned to close during the Orientation period, which implies meals may not be served then. However, no specific hours for the cafeteria are provided.
+- Therefore, without explicit information about dining hall hours, I cannot provide an accurate answer.
+--------------------------------------------------
+
+Q: Are vegetarian or vegan meals available on campus?
+A:  Based on the provided transcript, there is no explicit information about vegetarian or vegan meal options available on campus. Therefore, I don't know if they are offered.
+--------------------------------------------------
+
+Q: Who is my academic advisor?
+A:  - A faculty member from the Liberal Arts Program will be assigned as your temporary academic advisor until you declare a major.
+- After declaring a major, a faculty member in charge of that major will become your academic advisor.
+--------------------------------------------------
+
+Q: How do I book an appointment with a professor?
+A:  - Contact the iCLA Administrative Office through email.
+- Use the general inquiry email address icla.contact@c2c.ac.jp for booking an appointment.
+- Include details such as subject, recipient (professor's name), student ID, and full name in the email.
+- Students are notified by email or on UNIPA about how to make an appointment.
+--------------------------------------------------
+
+Q: Where can I find counseling services?
+A:  - Student Counseling Room: Available at Campus Center 3F, consultation available in Japanese, Chinese, and other languages (check iCLA Navi for usage procedures).
+- Smart Sodanshitsu: A multilingual online counseling service mainly for foreigners living in Japan.
+- University Health and Medical Care Office: Staffed by specialists who provide first aid, health counseling, and health checkups.
+- Career Support Services: Offered by the University, including individual consultations, seminars, events, public servant and qualification exam preparations.
+- Harassment contact point: Information available within the University's resources (not specified in provided context where this information can be found).
+--------------------------------------------------
+
+Q: Are there career services for internships and jobs?
+A:  - The University offers a wide range of career support services, including internships.
+- For university-dispatched internships, students apply through the University.
+- Students can also apply for "open internships" on their own through company websites and employment information sites.
+- After receiving a job offer, students should consult with the company to change to the appropriate status of residence that allows work.
+- Individual consultations are available for students of all year levels for job hunting in Japan after graduation.
+- Students can participate in seminars and events related to public servant and qualification exam preparations.
+- iCLA international students are strongly encouraged to participate in a ‘Working in Japan’ seminar starting from their first year.
+- To make an appointment for individual consultations or discuss job-hunting progress, students can be notified by email or on UNIPA.
+--------------------------------------------------
+
+Q: How do I request a transcript?
+A:  - To request an Academic Transcript, you need to follow these steps:
+   - Ensure that you have completed at least 1 semester at the University.
+   - Visit the Certificate Issuance Machine.
+   - Pay 300 JPY as the fee for the transcript.
+--------------------------------------------------
+
+Q: How do I apply for financial aid or scholarships?
+A:  - For scholarships offered by the University, students should check the University's website and look for announcements on UNIPA. Details about applying for these scholarships will be provided there.
+- The New System for Higher Education Aid can be applied through the Ministry of Education, Culture, Sports, Science and Technology (MEXT)'s website. The application guidelines will also be posted on the University's website.
+- For Japan Finance Corporation Education Loan, students can apply through their guarantor who must be a resident of Japan. Details can be found at the Japan Finance Corporation's website.
+- Students should check the deadlines for each scholarship or loan application as they vary.
+--------------------------------------------------
+
+Q: What health services are available on campus?
+A:  - University Health and Medical Care Office: Staffed by specialists who provide first aid for injuries, rest for the physically ill, and health counseling. They also conduct health checkups every April. (2)
+- Student Counseling Room: Students can consult with counselors (clinical psychologists and licensed psychologists, available only in Japanese and Chinese) on matters ranging from small to large concerns. (3)
+- Health Support Division of the Student Center: They determine Excused Absences for students participating in University-approved extracurricular activities or managed by the Student Center. (2)
+- Student Diversity and Accessibility Support Office: Coordinates reasonable accommodations for students with disabilities and students who need study support. (4)
+- General Library: No specific health service but available during specified hours for research and study. (3)
+- Information about making an appointment at the Health and Medical Care Office can be found at UNIPA. (1)
+--------------------------------------------------
+
+Q: Is on-campus housing available?
+A:  - On-campus housing is not specified to be available for visitors in the provided context.
+- For students, it's mentioned that outside visitors are generally not allowed inside the dormitories.
+- However, details about student accommodation might be found under the "Student Life Counseling and Support" section, but specific information about on-campus housing is not explicitly provided.
+--------------------------------------------------
+
+Q: What are the dormitory rules?
+A:  - Abide by the Usage Agreement of each facility, which includes not violating any rules that could result in financial liability, loss of after-hours usage privilege, or prohibition from using the facilities.
+- No separate internet service is allowed to be installed in the dormitories.
+- Maintain a quiet environment; do not talk, make noise, or play music at a volume that disturbs neighbors.
+- Do not eat, drink, smoke, use fire, bring pets, or other animals in the facilities.
+- Do not leave personal belongings unattended; any personal belongings left unattended will be taken.
+- Only use the emergency exit stairs from the rooftop to the second-floor balcony in emergency situations.
+- International students are responsible for maintaining their own status of residence "Student" and taking necessary steps. This includes registering with the iCLA Administrative Office and following the rules outlined under Student Life Counseling and Support, including procedures in case of emergencies or problems with the dormitory building.
+--------------------------------------------------
+
+Q: How do I apply for housing?
+A:  Based on the provided transcript, there is no information about how to apply for housing. The context discusses procedures related to address change, status of residence, scholarships, and loans, but not housing application.
+--------------------------------------------------
+
+Q: Are there curfew hours in student housing?
+A:  Based on the provided transcript context, it does not explicitly state whether there are specific curfew hours in student housing. However, the information suggests that facilities like the Student Lounge and Language Acquisition Center (LAC) have specified usage hours during which they can be accessed when classes are not in session, but there is no mention of curfew hours specifically for student dormitories. Therefore, it cannot be conclusively answered whether there are curfew hours in student housing based on the provided transcript context.
+--------------------------------------------------
+
+Q: What facilities are included in the dorms?
+A:  - Group study room called the Learning Commons
+- Printers, copiers, desktop computers, and laptops
+- The facilities listed under "Facilities other than classrooms" (subject to usage hours) include:
+  - Language Acquisition Center (LAC)
+  - Student Lounge
+--------------------------------------------------
+
+Q: Can I live off-campus?
+A:  Based on the provided context, it is not explicitly stated that students are required to live on campus. However, the text mentions rules and procedures for students living in dormitories. Therefore, it can be inferred that students have the option to live off-campus as well. The text does mention some restrictions for outside visitors regarding entering the dormitories.
+--------------------------------------------------
+
+Q: What support is available for international students?
+A:  - Japanese language learning support: iCLA provides a Japanese Language Intensive Program to help students acquire necessary Japanese skills for job hunting in Japan.
+- Student Diversity and Accessibility Support Office: Coordinates reasonable accommodations for students with disabilities and those who need study support.
+- Comprehensive Insurance for Students Lives Coupled with Gakkensai: International degree-seeking students are automatically enrolled in this insurance plan.
+- Japan Finance Corporation Education Loan: Offers loans to those who require educational support, but the student's guarantor must be a resident of Japan.
+- English proficiency tests: Contact lac@c2c.ac.jp for information about English proficiency tests.
+- Harassment contact point: icla.equalopportunity@c2c.ac.jp serves as the harassment contact point.
+- Special learning support: The Student Diversity and Accessibility Support Office supports students with disabilities. They can contact ical.accessibility@c2c.ac.jp for assistance.
+--------------------------------------------------
+
+Q: How do I extend my student visa?
+A:  To extend your student visa in the provided context, follow these steps:
+
+1. Application for Extension of Period of Stay: Approximately 3 months before your residence card expires, make an application for an extension through the University.
+
+2. Permission from Immigration Services Agency: If you wish to engage in part-time work, obtain permission from the Immigration Services Agency before doing so.
+
+3. Change of Status of Residence: If you wish to continue seeking employment in Japan after graduation, you can change your status of residence from "Student" to "Designated Activities (Job Search)".
+
+4. Application Process: The application process for changing your status of residence can be done through the provided procedures in Japanese and English, as announced by email and on UNIPA's website.
+
+5. Loans: If you need financial assistance, ensure that your guarantor is a resident of Japan. Details can be found at Orico's website (http://www.orico.tv/gakuhi/index.php?clientid=14584395).
+
+6. Maintaining the Status of Residence "Student": International students are responsible for managing their own status based on the procedures and points provided in the transcript.
+--------------------------------------------------
+
+Q: Are there Japanese language support classes?
+A:  Yes, the transcript mentions that iCLA provides Japanese language learning support. The specific courses offered include:
+
+- 'Professional Writing in Japanese' (3 credits) for students whose native language is Japanese or have equivalent proficiency.
+- 'Japanese Language 2' (3 credits) for international students or those with a non-Japanese native language, unless exempted based on test results.
+- 'Socio-Cultural Communication in Japanese' for students who are considering taking the Japanese Language Proficiency Test for employment in Japan.
+- There is also mention of a Japanese Language Intensive Program offered during certain requirements.
+--------------------------------------------------
+
+Q: Can international students work part-time?
+A:  - Yes, international students can work part-time.
+- However, they must obtain permission from the Immigration Services Agency before engaging in part-time work during periods when classes are not in session.
+- International students may work up to a maximum of 28 hours per week of total work time within activities that receive remuneration.
+- During the long breaks specified by the University Policies and Regulations, students may work part-time up to 8 hours per day. The Summer Break is from Monday, August 4, 2025 - Tuesday, August 26, 2025.
+- Violation of permitted working hours can lead to arrest by police or immigration authorities, and if the trial results in a prison sentence, the student will be deported after serving out their prison sentence.
+- After graduation/Withdrawal/Dismissal from the University, a student’s residence card becomes invalid and must immediately return to their home country or apply for an appropriate residence status.
+--------------------------------------------------

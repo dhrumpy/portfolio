@@ -1,0 +1,282 @@
+Q: What are the class hours?
+A: - 1st Period: 9:00-10:15
+- 2nd Period: 10:25-11:40
+- Lunch Break: 11:40–12:40
+- 3rd Period: 12:40–13:55
+- 4th Period: 14:05–15:20
+- 5th Period: 15:30–16:45
+- 6th Period: 16:55–18:10
+--------------------------------------------------
+
+Q: How many credits are required to graduate?
+A: - A total of 124 credits or more is required to graduate.
+--------------------------------------------------
+
+Q: What is the attendance policy?
+A: - Attending class is mandatory.
+- Attendance is recorded from the first day of class, regardless of when registration is completed.
+- If a student's number of absences exceeds one-third of the total number of classes for a given course, it may lead to consequences.
+--------------------------------------------------
+
+Q: What happens if I miss a class?
+A: - If a student misses a class, they will receive class handouts and instructions on self-study content from the course instructor.
+- By supplementing their studies with the provided materials, they will not be considered absent.
+- Excused absences can only be applied to a maximum of less than half of the total number of classes for each course.
+- If a student's number of absences exceeds one-third of the total number of classes for a given course, they may lose eligibility to take exams and receive an “F” or “NP” for the course.
+--------------------------------------------------
+
+Q: How are grades calculated?
+A: - GPA indicates the average grade points earned per credit.
+- It is calculated using a specific formula (not provided in detail).
+- Grades are expressed to the second decimal place with the third rounded up.
+- If a student retakes a failed course, the failing grade is not counted toward total registered credits; only the final grade is counted.
+- Grades for GPA calculation include A (4.0), B (3.0), C (2.0), D (1.0), and F (0.0).
+- Grades P and NP are not counted in GPA calculation.
+--------------------------------------------------
+
+Q: What is the policy on repeating a course?
+A: - Students cannot re-register for courses in which they earned credit.
+- Students can re-register for courses they failed.
+- If a student retakes a failed course, the failing grade will not be counted toward the total number of registered credits.
+- Only the final grade from the retake will be counted.
+--------------------------------------------------
+
+Q: How do I register for courses?
+A: - Students must register on a first-come, first-served basis.
+- If a course has multiple sections, students must take the assigned section.
+- Some courses cannot be registered for by students themselves.
+- There are 9 designated courses (27 credits) that students must register for:
+  - Introduction to Python Programming
+  - Accounting
+  - Financial Management
+  - Research Design
+  - Statistics
+  - Data Visualization Techniques in Python
+  - Mathematics for Data Science
+  - Machine Learning
+  - Econometrics
+- Students must plan their course of study and ensure proper registration on UNIPA.
+- Registration must be done correctly to earn credits, even if attending class.
+- Students who have not registered, presented their student ID, or paid fees may face issues with registration.
+--------------------------------------------------
+
+Q: What is the maximum number of credits I can take per semester?
+A: - The maximum number of credits students can take per semester is not specified in the provided context. 
+- However, students are strongly recommended to take 16 to 18 credits each semester.
+--------------------------------------------------
+
+Q: What are the prerequisites for advanced courses?
+A: - Course prerequisites are conditions that must be met prior to enrolling in a course.
+- Prerequisites can include:
+  - Completion of a specific course.
+  - Meeting certain standards in the Program, Foundation Courses, and specific courses from each subject area.
+- For certain courses, students must:
+  - Have a GPA of 2.5 or higher at the time of registering for ‘Seminar’.
+  - Receive necessary approval from an advisor.
+  - Attend relevant information session(s).
+- Students can apply for a Prerequisite Waiver during the course registration period if they do not meet a prerequisite but have equivalent knowledge.
+--------------------------------------------------
+
+Q: How do I declare or change my major?
+A: - Students must refer to the iCLA Navi for the procedures to declare or change majors.
+- To declare a major, students must have taken a pathway course in that major area.
+- For Psychology, the pathway courses are 'Introduction to Psychology' and 'Introduction to Psychobiology'.
+- Students must earn a grade of B or higher in the respective major’s pathway course.
+- After declaration, students will receive consistent guidance from an advisor.
+--------------------------------------------------
+
+Q: What is the policy on late assignments?
+A: - Students may submit a proof of delay certificate to the course instructor.
+- Students should contact the public transportation company for details if necessary.
+- The course instructor decides how arriving to class late is handled.
+--------------------------------------------------
+
+Q: How are final exams scheduled?
+A: - Final exams are given during finals week following the last week of classes.
+- The method of exam may vary by subject, including written exams, reports, oral exams, and practical exams.
+- The timetable for the exams is posted on the University's website around 6:00 in the morning on the day of the event.
+- Final exam information is posted to the iCLA Navi about one month before the final exams begin.
+--------------------------------------------------
+
+Q: What happens if I miss an exam?
+A: - Consult with the course instructor if you miss an exam.
+- Students eligible for a make-up exam must follow the necessary procedures outlined in the iCLA Navi.
+- If you miss an exam and received an “F” or “NP” due to attendance, you are not eligible for a re-take exam.
+- The highest grade possible for a re-take exam is a “D” or “P”.
+- Results of re-take exams are notified on UNIPA on the day of grade release.
+--------------------------------------------------
+
+Q: What is the policy on make-up exams?
+A: - A make-up exam is offered when a student cannot take the scheduled final exam due to unavoidable circumstances.
+- Evaluation of the make-up exam includes:
+  - Cooperative preparation of answers by multiple people.
+  - Plagiarism of other examinees' answers.
+  - Malicious acts such as using cheat sheets, cheating, or private conversations.
+  - Writing answers on allowed references and lending or borrowing references.
+- Students must provide a document proving the reason for not being able to take the exam.
+--------------------------------------------------
+
+Q: Are there rules for plagiarism or academic misconduct?
+A: - Yes, there are rules against plagiarism and academic misconduct.
+- Specific actions that are prohibited include:
+  - Cooperative preparation of answers by multiple people.
+  - Plagiarism of other examinees' answers.
+  - Malicious acts such as using cheat sheets, cheating, and private conversations.
+  - Writing answers on allowed references and lending or borrowing references.
+- Students are advised not to plagiarize, destroy data, or use fraudulent data.
+--------------------------------------------------
+
+Q: What are the requirements for graduating with honors?
+A: I don't know.
+--------------------------------------------------
+
+Q: What clubs and organizations are available?
+A: - Official organizations managed by the Student Center
+- Clubs related to extracurricular activities recognized by the University
+- Various major areas within the Liberal Arts Program (LA) such as:
+  - Global Business & Economics
+  - Political Science
+  - Psychology
+  - Data Science
+  - Interdisciplinary Arts (including Language Arts, Arts, Performing Arts, Music)
+  - Japan Studies (including History and Japanese Language) 
+
+(Note: Specific club names or types beyond those mentioned are not provided in the transcript.)
+--------------------------------------------------
+
+Q: How do I join student clubs?
+A: - The transcript does not provide information on how to join student clubs.
+--------------------------------------------------
+
+Q: What are the library opening hours?
+A: - Weekdays: 9:00–20:00
+- Saturdays: 9:30–16:30
+--------------------------------------------------
+
+Q: Are there computer labs available for students?
+A: - Yes, desktop computers and laptops are available in the building.
+--------------------------------------------------
+
+Q: Is there Wi-Fi access on campus?
+A: - Yes, students can connect to the YGU_Wi-Fi wireless network.
+- They need to log in with their Integrated Authentication ID and password.
+--------------------------------------------------
+
+Q: Where can I get help with IT issues?
+A: - You can get help with IT issues by contacting the iCLA Administrative Office during weekdays from 9:00 to 17:00 at the internal number (1350) or the external number (055-224-1350).
+--------------------------------------------------
+
+Q: What are the dining hall hours?
+A: - The cafeteria is closed on certain days (no meals served) during orientation.
+- Specific dining hall hours are not provided in the transcript.
+--------------------------------------------------
+
+Q: Are vegetarian or vegan meals available on campus?
+A: I don't know.
+--------------------------------------------------
+
+Q: Who is my academic advisor?
+A: - A faculty member from the Liberal Arts Program will be assigned as your temporary academic advisor if you have begun the Liberal Arts Program.
+- After declaring a major, a faculty member in charge of that major will become your academic advisor.
+--------------------------------------------------
+
+Q: How do I book an appointment with a professor?
+A: - The context does not provide specific information on how to book an appointment with a professor.
+--------------------------------------------------
+
+Q: Where can I find counseling services?
+A: - Student Counseling Room: Consult with counselors (clinical psychologists and licensed psychologists) available in Japanese and Chinese.
+- Smart Sodanshitsu: A multilingual online counseling service for foreigners living in Japan, offering free counseling in English, Japanese, Chinese, etc.
+--------------------------------------------------
+
+Q: Are there career services for internships and jobs?
+A: - Yes, the University offers a wide range of career support services for internships and jobs.
+- Services include individual consultations, seminars, and events related to job hunting.
+- Students can engage in internships through the University or apply for "open internships" on their own.
+- There are specific provisions for students seeking employment after graduation, allowing them to extend their stay for job searching.
+- Students can earn credit for internships if they complete 80 or more working hours, but only one credit can be earned throughout their enrollment.
+--------------------------------------------------
+
+Q: How do I request a transcript?
+A: - The context does not provide information on how to request a transcript.
+--------------------------------------------------
+
+Q: How do I apply for financial aid or scholarships?
+A: - Apply through the University for scholarships offered by some prefectures, cities, towns, villages, and private organizations; details will be posted on the University's website and announced by email and on UNIPA.
+- For The New System for Higher Education Aid, the Japanese government provides scholarships based on family income; motivated and talented students can apply.
+- For loans, students can apply through the Japan Student Services Organization (JASSO) for financial difficulties; Type 1 loans are interest-free, and Type 2 loans have interest.
+--------------------------------------------------
+
+Q: What health services are available on campus?
+A: - Consultation services to help students maintain physical and mental health
+- University Health and Medical Care Office
+- Health and Medical Care Center for injury reporting and support
+- Student Counselling Office for mental health support
+--------------------------------------------------
+
+Q: Is on-campus housing available?
+A: - The transcript does not provide information about on-campus housing availability.
+--------------------------------------------------
+
+Q: What are the dormitory rules?
+A: - Do not commit identity theft.
+- Do not take part in hate speech, libel, or other offensive or antisocial ways of using social networks.
+- Abide by the rules of each social network.
+- No separate internet service is allowed to be installed in the dormitories.
+- Use facilities in a way that is safe and comfortable for all students.
+- Use facilities in a clean manner and handle all equipment with care.
+- Use facilities solely for the purposes of learning, intercultural exchange, and recognized club activities.
+- Do not talk, make noise, or play music at a volume that disturbs neighbors.
+- Do not eat, drink, smoke, use fire, or bring pets and other animals in the facilities.
+- Do not leave personal belongings unattended; any personal belongings left unattended will be taken.
+--------------------------------------------------
+
+Q: How do I apply for housing?
+A: I don't know.
+--------------------------------------------------
+
+Q: Are there curfew hours in student housing?
+A: - The provided transcript does not mention curfew hours in student housing.
+--------------------------------------------------
+
+Q: What facilities are included in the dorms?
+A: - The transcript does not specify any facilities included in the dorms.
+--------------------------------------------------
+
+Q: Can I live off-campus?
+A: - The provided transcript does not contain information regarding living off-campus. 
+- I don't know.
+--------------------------------------------------
+
+Q: What support is available for international students?
+A: - Japanese language learning support to help acquire necessary skills for job hunting in Japan.
+- Japanese Language Intensive Program offered during the semester.
+- Student Diversity and Accessibility Support Office for reasonable accommodations and study support.
+- Academic advising for fulfilling graduation requirements and course selection.
+- Information on scholarships and financial aid available through the University.
+- Regular reporting of international students' status to the Immigration Services Agency of Japan.
+--------------------------------------------------
+
+Q: How do I extend my student visa?
+A: - Apply for an extension of the period of stay through the University.
+- Make the application around 3 months prior to the expiration date of the residence card.
+--------------------------------------------------
+
+Q: Are there Japanese language support classes?
+A: - Yes, there are Japanese language support classes.
+- iCLA provides a Japanese Language Intensive Program.
+- Support includes one-on-one tutoring sessions and preparation materials for the Japanese Language Proficiency Test (JLPT).
+- Courses offered include Japanese Language courses (e.g., JPNL116, JPNL117, JPNL250).
+--------------------------------------------------
+
+Q: Can international students work part-time?
+A: - Yes, international students are permitted to work part-time while studying in Japan.
+- They can work up to 28 hours per week during the semester.
+- During long breaks, they may work part-time up to 8 hours per day.
+- Specific long breaks include:
+  - Winter Break: December 25, 2025 - January 6, 2026
+  - Spring Break: March 16, 2026 - March 24, 2026
+  - Summer Break: August 4, 2025 - August 26, 2025
+- Students can apply for permission to work more than 28 hours per week outside of long breaks.
+- It is illegal to only attend a part-time job without attending classes, which can lead to deportation.
+--------------------------------------------------
